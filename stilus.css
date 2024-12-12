@@ -1,0 +1,31 @@
+*{
+    box-sizing: border-box;
+    padding: 0px;
+    width: 80%;
+    max-width: 852px;
+}
+p{
+    background-color: rgba(189,183,120,0.5);
+    color:  #5a4535;
+    text-align: justify;
+    font-family: 'Calibri', Garamond, 'Comic Sans MS';
+    font-size: 12px;
+}
+header{
+    height:  112px;
+    margin:  3px;
+}
+nav{
+    background-image: url('kepek/bg-nav.png');
+    margin-top: 3px; 
+    background-size: cover;    
+}
+ul{
+    padding: 0px;
+    margin: 0px;
+}
+nav li{
+    font-family: 'Margarine', cursive;
+    font-size: 18px;
+    height: 45px;  
+}
